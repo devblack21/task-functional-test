@@ -1,0 +1,5 @@
+.idea/
+debug.log
+target/**
+tasks-functional-test.iml
+
